@@ -1,0 +1,13 @@
+.customheading{
+    font-size: 36px;
+    font-weight: 600;
+    
+}
+
+#customwelcome{
+    margin-bottom: 32px;
+}
+
+.custombtn{
+    background-color: #5cb85c !important;
+}
