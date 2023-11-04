@@ -343,54 +343,54 @@
                 <div class="col-md-5">
                   <div class="table-responsive">
                     <table class="table">
-                      <tbody>
+                      <tbody >
                         <tr>
                           <td>
                             <i class="flag-icon flag-icon-in"></i>
                           </td>
-                          <td>India</td>
-                          <td class="text-right"> 1500 </td>
-                          <td class="text-right font-weight-medium"> 70.35% </td>
+                          <td style="color: white">India</td>
+                          <td style="color: white" class="text-right"> 1500 </td>
+                          <td style="color: white" class="text-right font-weight-medium"> 70.35% </td>
                         </tr>
                         <tr>
                           <td>
                             <i class="flag-icon flag-icon-us"></i>
                           </td>
-                          <td>USA</td>
-                          <td class="text-right"> 800 </td>
-                          <td class="text-right font-weight-medium"> 10.25% </td>
+                          <td style="color: white">USA</td>
+                          <td style="color: white" class="text-right"> 800 </td>
+                          <td style="color: white" class="text-right font-weight-medium"> 10.25% </td>
                         </tr>
                         <tr>
                           <td>
                             <i class="flag-icon flag-icon-au"></i>
                           </td>
-                          <td>Australia</td>
-                          <td class="text-right"> 760 </td>
-                          <td class="text-right font-weight-medium"> 8.12% </td>
+                          <td style="color: white">Australia</td>
+                          <td style="color: white" class="text-right"> 760 </td>
+                          <td style="color: white" class="text-right font-weight-medium"> 8.12% </td>
                         </tr>
                         <tr>
                           <td>
                             <i class="flag-icon flag-icon-gb"></i>
                           </td>
-                          <td>United Kingdom</td>
-                          <td class="text-right"> 450 </td>
-                          <td class="text-right font-weight-medium"> 6.17% </td>
+                          <td style="color: white">United Kingdom</td>
+                          <td style="color: white" class="text-right"> 450 </td>
+                          <td style="color: white" class="text-right font-weight-medium"> 6.17% </td>
                         </tr>
                         <tr>
                           <td>
                             <i class="flag-icon flag-icon-ro"></i>
                           </td>
-                          <td>Romania</td>
-                          <td class="text-right"> 620 </td>
-                          <td class="text-right font-weight-medium"> 4.25% </td>
+                          <td style="color: white">Romania</td>
+                          <td style="color: white" class="text-right"> 620 </td>
+                          <td style="color: white" class="text-right font-weight-medium"> 4.25% </td>
                         </tr>
                         <tr>
                           <td>
                             <i class="flag-icon flag-icon-de"></i>
                           </td>
-                          <td>Germany</td>
-                          <td class="text-right"> 230 </td>
-                          <td class="text-right font-weight-medium"> 0.86% </td>
+                          <td style="color: white">Germany</td>
+                          <td style="color: white" class="text-right"> 230 </td>
+                          <td style="color: white" class="text-right font-weight-medium"> 0.86% </td>
                         </tr>
                       </tbody>
                     </table>

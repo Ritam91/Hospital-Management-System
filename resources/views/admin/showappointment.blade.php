@@ -30,11 +30,11 @@
       <div class="content-wrapper">
         <div class="row " >  
           <div class="col-12 grid-margin">
-            <div class="card" style="background-color: #485063 ">
+            <div class="card">
               <div class="card-body">
                 <h4 class="card-title">Appoinment Status</h4>
                 <div class="table-responsive">
-                  <table class="table" >
+                  <table class="table" style="float: right" >
                     <thead>
                       <tr>
                         <th>
@@ -67,15 +67,15 @@
                             </label>
                           </div>
                         </td>
-                        <td>
+                        <td style="color: white">
                           <span class="ps-2">{{$appoint -> name}}</span>
                         </td>
-                        <td> {{$appoint -> email}} </td>
-                        <td>{{$appoint -> phone}}</td>
-                        <td> {{$appoint -> doctor}}</td>
-                        <td> {{$appoint -> message}} </td>
-                        <td> {{$appoint -> date}} </td>
-                        <td>
+                        <td style="color: white"> {{$appoint -> email}} </td>
+                        <td style="color: white">{{$appoint -> phone}}</td>
+                        <td style="color: white"> {{$appoint -> doctor}}</td>
+                        <td style="color: white"> {{$appoint -> message}} </td>
+                        <td style="color: white"> {{$appoint -> date}} </td>
+                        <td style="color: white">
                           <div class="">{{$appoint -> status}}</div>
                         </td>
 

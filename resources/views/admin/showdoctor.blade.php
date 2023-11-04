@@ -31,7 +31,7 @@
 
             <div align = 'center' style="padding-top: 100px; ">
 
-                <table style="border: 2px solid;">
+                <table style="border: 2px solid; ">
 
                     <tr style="background-color: black; ">
 

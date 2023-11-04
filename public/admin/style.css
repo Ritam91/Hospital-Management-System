@@ -54,6 +54,7 @@
     width: -moz-calc((100% - 30px) / 2);
     width: calc((100% - 30px) / 2);
   }
+  
 
 
   
@@ -571,9 +572,7 @@
     }
   }
   
-  .input-file {
-    display: none;
-  }
+
   
   .input-file + label {
     font-size: 15px;
@@ -699,4 +698,17 @@
       padding: 50px 30px;
     }
   }
+
+  @media (min-width:1300px) {
+    .wrapper {
+      margin: 0 250px;
+    }
+  }
+
+    @media(min-width:855px) and (max-width: 1299px){
+        .wrapper {
+          margin: 0 150px;
+        }
+    }
+  
   
